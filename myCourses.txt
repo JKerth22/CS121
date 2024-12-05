@@ -1,0 +1,5 @@
+course credits score
+Math 3 95
+Spanish 2 95
+Music 1 80
+French 1 92

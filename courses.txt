@@ -1,0 +1,4 @@
+course credit score
+cs121 4 95
+cs124 3 92
+eng200 3 80
